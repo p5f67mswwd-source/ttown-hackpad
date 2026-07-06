@@ -1,2 +1,21 @@
 # ttown-hackpad
-Hackpad created following hack clubs diy guide. Includes 7 pressable switches, 1 rotary encoder switch, and flashing less.
+Hackpad created following hack clubs DIY guide. Includes 7 pressable switches, 1 rotary encoder switch, and leds for under glow
+
+<img width="1710" height="1112" alt="image" src="https://github.com/user-attachments/assets/06e2cda5-a3d0-499e-8b5d-79ece6d9bb8a" />
+
+<img width="1710" height="1112" alt="image" src="https://github.com/user-attachments/assets/fc89b0c4-1e46-4e1e-88c5-20db3aa5f7e3" />
+
+<img width="1710" height="1112" alt="image" src="https://github.com/user-attachments/assets/551f6c52-d0a2-49a4-98d0-6a7f80fe085e" />
+
+<img width="1710" height="1112" alt="image" src="https://github.com/user-attachments/assets/dd1284bd-9d76-4937-b6da-23e37d8d0bc2" />
+
+<img width="1710" height="1112" alt="image" src="https://github.com/user-attachments/assets/3659c236-9786-46df-ac24-61092ec8cf72" />
+
+1 unsoldered Seeed XIAO RP2040
+7x through-hole 1N4148 Diodes
+7x MX-Style switches
+1x EC11 Rotary encoders
+7x white blank DSA keycaps
+7x SK6812 MINI-E LEDs
+4x M3x16mm screws
+4x Heatset Inserts
