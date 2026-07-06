@@ -1,10 +1,22 @@
 # ttown-hackpad
-Hackpad created following hack clubs DIY guide. Includes 7 pressable switches, 1 rotary encoder switch, and leds for under glow
+TTOWN is a 7 key macropad with a rotary encoder, with led underglow. I used kmk firmware to code this.
 
+Features:
+7 Programmable and pressable switches
+Codable led patterns
+EC11 Rotary encoder for scrolling or volume control
+
+CAD Model:
+
+Everything fits together with heatset inserts. 4 for the case.
+
+It has 2 separate printed pieces. The base where the PCB sits, and the top cover. 
+CAD:
 <img width="1710" height="1112" alt="image" src="https://github.com/user-attachments/assets/06e2cda5-a3d0-499e-8b5d-79ece6d9bb8a" />
 
 <img width="1710" height="1112" alt="image" src="https://github.com/user-attachments/assets/fc89b0c4-1e46-4e1e-88c5-20db3aa5f7e3" />
 
+PCB:
 <img width="1710" height="1112" alt="image" src="https://github.com/user-attachments/assets/551f6c52-d0a2-49a4-98d0-6a7f80fe085e" />
 
 <img width="1710" height="1112" alt="image" src="https://github.com/user-attachments/assets/dd1284bd-9d76-4937-b6da-23e37d8d0bc2" />
