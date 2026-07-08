@@ -16,8 +16,9 @@ CAD:
 
 <img width="1710" height="1112" alt="image" src="https://github.com/user-attachments/assets/fc89b0c4-1e46-4e1e-88c5-20db3aa5f7e3" />
 
-PCB:
-<img width="1710" height="1112" alt="image" src="https://github.com/user-attachments/assets/551f6c52-d0a2-49a4-98d0-6a7f80fe085e" />
+PCB
+<img width="835" height="527" alt="image" src="https://github.com/user-attachments/assets/57fecbdb-e0f0-4d64-b6e1-01f214d58db2" />
+
 
 <img width="1710" height="1112" alt="image" src="https://github.com/user-attachments/assets/dd1284bd-9d76-4937-b6da-23e37d8d0bc2" />
 
