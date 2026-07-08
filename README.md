@@ -14,7 +14,14 @@ PCB
 
 <img width="1710" height="1112" alt="image" src="https://github.com/user-attachments/assets/63bf02df-e850-4526-b1e3-e0ed164fcb80" />
 
+BOM:
 
 An EC11 Rotary encoder for scrolling or volume control
-7  RGB LEDs. Used for Underglow, 
-7 Cherry MX-style keys!
+1 unsoldered Seeed XIAO RP2040
+7x through-hole 1N4148 Diodes
+7x MX-Style switches
+1x EC11 Rotary encoders
+7x white blank DSA keycaps
+7x SK6812 MINI-E LEDs
+4x M3x16mm screws
+4x M3x5mx4mm heatset inserts
